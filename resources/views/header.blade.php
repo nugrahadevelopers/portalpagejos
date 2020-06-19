@@ -22,7 +22,7 @@
         <!-- Navigation -->
         <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top" id="mainNav">
             <div class="container">
-            <a class="navbar-brand js-scroll-trigger" href="{{ url('/') }}">JOS TECH</a>
+            <a class="navbar-brand js-scroll-trigger" href="{{ url('/') }}">Jember Online Service</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-
         
         target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -31,13 +31,7 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="{{ url('/') }}">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="{{ url('/about') }}">About</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="{{ url('/contact') }}">Contact</a>
+                    <a class="nav-link js-scroll-trigger" href="{{ url('/') }}">Hubungi Kami</a>
                 </li>
                 </ul>
             </div>
