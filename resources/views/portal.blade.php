@@ -35,21 +35,21 @@
                 <div class="card float-left col-md-3 mr-3" style="width: 20%;">
                     <div class="card-body">
                         <h2 class="card-title">Profil</h2>
-                        <img class="img-fluid mb-3" src="images/pic.png" alt="Card image cap" style="height: 150px; widht: 150px;">
+                        <img class="img-fluid mb-3" src="images/pic6.png" alt="Card image cap" style="height: 150px; widht: 150px;">
                         <p class="card-text">Ketahui Siapa Dibalik JOS TECH</p> <a href="#" class="btn btn-primary"><i class="fa fa-sign-in"></i> Kunjungi Halaman</a>
                     </div>
                 </div>
                 <div class="card float-left col-md-3 mr-3" style="width: 20%;">
                     <div class="card-body">
                         <h2 class="card-title">Demo</h2>
-                        <img class="img-fluid mb-3" src="images/pic2.png" alt="Card image cap" style="height: 150px; widht: 150px;">
+                        <img class="img-fluid mb-3" src="images/pic6.png" alt="Card image cap" style="height: 150px; widht: 150px;">
                         <p class="card-text">Demo Aplikasi Yang Kami Kerjakan</p> <a href="#" class="btn btn-primary"><i class="fa fa-sign-in"></i> Kunjungi Halaman</a>
                     </div>
                 </div>
                 <div class="card float-left col-md-3 mr-3" style="width: 20%;">
                     <div class="card-body">
                         <h2 class="card-title">Youtube</h2>
-                        <img class="img-fluid mb-3" src="images/pic3.png" alt="Card image cap" style="height: 150px; widht: 150px;">
+                        <img class="img-fluid mb-3" src="images/pic6.png" alt="Card image cap" style="height: 150px; widht: 150px;">
                         <p class="card-text">Kunjungi Channel YT Kami</p> <a href="#" class="btn btn-primary"><i class="fa fa-sign-in"></i> Kunjungi Halaman</a>
                     </div>
                 </div>
@@ -58,14 +58,14 @@
                 <div class="card float-left col-md-3 mr-3" style="width: 20%;">
                     <div class="card-body">
                         <h2 class="card-title">Facebook Page</h2>
-                        <img class="img-fluid mb-3" src="images/pic4.png" alt="Card image cap" style="height: 150px; widht: 150px;">
+                        <img class="img-fluid mb-3" src="images/pic6.png" alt="Card image cap" style="height: 150px; widht: 150px;">
                         <p class="card-text">Kunjungi Facebook Page Kami</p> <a href="#" class="btn btn-primary"><i class="fa fa-sign-in"></i> Kunjungi Halaman</a>
                     </div>
                 </div>
                 <div class="card float-left col-md-3 mr-3" style="width: 20%;">
                     <div class="card-body">
                         <h2 class="card-title">Instagram</h2>
-                        <img class="img-fluid mb-3" src="images/pic5.png" alt="Card image cap" style="height: 150px; widht: 150px;">
+                        <img class="img-fluid mb-3" src="images/pic6.png" alt="Card image cap" style="height: 150px; widht: 150px;">
                         <p class="card-text">Kunjungi Instagram Kami</p> <a href="#" class="btn btn-primary"><i class="fa fa-sign-in"></i> Kunjungi Halaman</a>
                     </div>
                 </div>
