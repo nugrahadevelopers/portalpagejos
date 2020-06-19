@@ -1,0 +1,29 @@
+header {
+    padding: 165px 0 100px;
+  }
+  
+  @media (min-width: 992px) {
+    header {
+      padding: 170px 0 100px;
+    }
+  }
+  
+  .intro-header {
+      position: relative;
+      height: 430px;
+      overflow: hidden;
+      background-position: center;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      background-size: cover;
+      -o-background-size: cover;
+  }
+  
+  section {
+    padding: 150px 0;
+  }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ECF0F1;
+   }
