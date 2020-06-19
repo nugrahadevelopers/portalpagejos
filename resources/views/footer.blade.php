@@ -7,14 +7,6 @@
         <!-- END : Footer -->
     
         <!-- Bootstrap core JavaScript -->
-        <script>
-        function changeWide(){
-                        document.getElementById("codelatte").className = "container-fluid";
-                    }
-                        function changeBoxed(){
-                        document.getElementById("codelatte").className = "container ";
-                    }
-        </script>
         <script src="{{ asset('/js/app.js') }}"></script>
     </body>
 </html>
